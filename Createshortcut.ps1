@@ -1,5 +1,5 @@
-﻿$SourceFileLocation = "C:\users\Kerry\Desktop\PTH\pokerth.exe"
-$ShortcutLocation = “C:\Users\Kerry\Desktop\poker.lnk”
+﻿$SourceFileLocation = "C:\users\padmin\Desktop\PTH\pokerth.exe"
+$ShortcutLocation = “C:\Users\padmin\Desktop\poker.lnk”
 
 $WScriptShell = New-Object -ComObject WScript.Shell
 
